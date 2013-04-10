@@ -1,0 +1,144 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-mdpi/star1.png
+SHA1-Digest: mBLVL0FP0YWYP9bJ24Fvw9m5KPY=
+
+Name: res/drawable-mdpi/fav_star1.png
+SHA1-Digest: UbadV1p+5I4MYVxIGP1kZ2DXF04=
+
+Name: res/drawable-hdpi/fav_star1.png
+SHA1-Digest: UbadV1p+5I4MYVxIGP1kZ2DXF04=
+
+Name: res/drawable-hdpi/nstar.png
+SHA1-Digest: DfZCaZTvkVBpkBXFZRMdMyEkFPY=
+
+Name: res/drawable-ldpi/star1.png
+SHA1-Digest: mBLVL0FP0YWYP9bJ24Fvw9m5KPY=
+
+Name: res/layout/newcontact.xml
+SHA1-Digest: Dwl8yqWAeUrx6elNeUWbBXufZm4=
+
+Name: res/drawable-hdpi/iphone_refresh_icon.png
+SHA1-Digest: ZZ899c4AGrFOtE38iwhGC0RE9yg=
+
+Name: res/drawable-hdpi/refresh12.png
+SHA1-Digest: 3cA4Y+exJxfqiPAlfQHo5dbf3Ng=
+
+Name: res/drawable-hdpi/star.png
+SHA1-Digest: VXe+iGAFvjfhiS88qGZl1Kembwc=
+
+Name: resources.arsc
+SHA1-Digest: hils20GRKFgyeoxwnxEx8l4atVM=
+
+Name: res/layout/showcon.xml
+SHA1-Digest: iY4TfD+KJdUKHj1USv4GNcPPHP0=
+
+Name: res/layout/launch.xml
+SHA1-Digest: RIbymhiQ205oMkTOqQ/g+hdreSk=
+
+Name: res/drawable-mdpi/star.png
+SHA1-Digest: VXe+iGAFvjfhiS88qGZl1Kembwc=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: i7vxaosoiS+9HzKB7ZgIsXMYRLY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: eBPG4ZrpOXhEviMFwVqYeuWAhMw=
+
+Name: res/drawable-mdpi/nstar.png
+SHA1-Digest: DfZCaZTvkVBpkBXFZRMdMyEkFPY=
+
+Name: res/drawable-hdpi/fav_star.png
+SHA1-Digest: vG8mQ1LJDBJwTB50lMberY7ABMg=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: 7Ft/Rirt+l/JRX2KjDREScdbCZk=
+
+Name: res/drawable-hdpi/clickedbtn.png
+SHA1-Digest: i384AmwDYEnOPBdT+rRnofIh8Bs=
+
+Name: res/drawable-ldpi/nstar.png
+SHA1-Digest: DfZCaZTvkVBpkBXFZRMdMyEkFPY=
+
+Name: res/drawable-hdpi/nstar1.png
+SHA1-Digest: hcaBhhudVaOCDwF/E2MCwwSSKp8=
+
+Name: res/layout/search.xml
+SHA1-Digest: jJypFX/nQuqN0F7d9WGtk0Anj9w=
+
+Name: res/drawable-mdpi/refresh12.png
+SHA1-Digest: 3cA4Y+exJxfqiPAlfQHo5dbf3Ng=
+
+Name: res/layout/row2.xml
+SHA1-Digest: J7IaO67Pd7/dha41V2Ec6009c6g=
+
+Name: res/layout/screen1.xml
+SHA1-Digest: lidfm+zB0t5tC3pTf+RN9o+Trco=
+
+Name: res/drawable-ldpi/fav_star1.png
+SHA1-Digest: UbadV1p+5I4MYVxIGP1kZ2DXF04=
+
+Name: res/drawable-hdpi/closebtn.png
+SHA1-Digest: gArDGPEJDNaV6KmELtO3hKF/Wz4=
+
+Name: res/menu/menu_fav.xml
+SHA1-Digest: JPcO2Dc7jlAq8r6be2yyIDEcIwY=
+
+Name: res/layout/option.xml
+SHA1-Digest: YiAC6w/UxoSjcD0TL1N0+Q6M7RQ=
+
+Name: res/drawable-ldpi/clickedbtn.png
+SHA1-Digest: i384AmwDYEnOPBdT+rRnofIh8Bs=
+
+Name: classes.dex
+SHA1-Digest: kLy6l76hiVDrw/Z++HQcfPDVwDY=
+
+Name: res/drawable-mdpi/iphone_refresh_icon.png
+SHA1-Digest: ZZ899c4AGrFOtE38iwhGC0RE9yg=
+
+Name: res/drawable-ldpi/refresh12.png
+SHA1-Digest: 3cA4Y+exJxfqiPAlfQHo5dbf3Ng=
+
+Name: res/drawable-ldpi/star.png
+SHA1-Digest: VXe+iGAFvjfhiS88qGZl1Kembwc=
+
+Name: res/layout/main.xml
+SHA1-Digest: Qq3lW7j1ZUiVaji9RKjyJiFIfCs=
+
+Name: res/drawable-mdpi/fav_star.png
+SHA1-Digest: vG8mQ1LJDBJwTB50lMberY7ABMg=
+
+Name: res/layout/launch_row.xml
+SHA1-Digest: t0sc2OFLZ69IOVXwu+IbGktNCe4=
+
+Name: res/drawable-mdpi/closebtn.png
+SHA1-Digest: gArDGPEJDNaV6KmELtO3hKF/Wz4=
+
+Name: res/drawable-ldpi/nstar1.png
+SHA1-Digest: hcaBhhudVaOCDwF/E2MCwwSSKp8=
+
+Name: res/drawable-mdpi/nstar1.png
+SHA1-Digest: hcaBhhudVaOCDwF/E2MCwwSSKp8=
+
+Name: res/drawable-mdpi/clickedbtn.png
+SHA1-Digest: i384AmwDYEnOPBdT+rRnofIh8Bs=
+
+Name: res/drawable-ldpi/closebtn.png
+SHA1-Digest: gArDGPEJDNaV6KmELtO3hKF/Wz4=
+
+Name: res/drawable-ldpi/iphone_refresh_icon.png
+SHA1-Digest: ZZ899c4AGrFOtE38iwhGC0RE9yg=
+
+Name: res/layout/row.xml
+SHA1-Digest: Hu3xzLB3HBwDoiKylDfLlH62eMM=
+
+Name: res/drawable-hdpi/star1.png
+SHA1-Digest: mBLVL0FP0YWYP9bJ24Fvw9m5KPY=
+
+Name: res/drawable-ldpi/fav_star.png
+SHA1-Digest: vG8mQ1LJDBJwTB50lMberY7ABMg=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: Vj/qhxk8ic8FE0/kT6E3vgRJ4mE=
+
